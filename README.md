@@ -10,4 +10,4 @@ This is the backend api using:
 - Pydantic
 
 ### xontex-extension
-This is the front end / extension, using Extension.dev's manifest builder
+This is the front end / extension, using Extension.dev's extension builder
